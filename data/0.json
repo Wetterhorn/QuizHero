@@ -1,0 +1,27 @@
+{
+  "id": "0",
+  "slug": "europa",
+  "title": "Europa-Quiz",
+  "description": "Teste dein Wissen über Europa.",
+  "category": "Geografie",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Was ist die Hauptstadt von Italien?",
+      "answers": ["Mailand", "Rom", "Neapel", "Turin"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q2",
+      "question": "Welcher Fluss fließt durch Paris?",
+      "answers": ["Themse", "Seine", "Donau", "Rhein"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q3",
+      "question": "Welches EU-Land hat die meisten Einwohner?",
+      "answers": ["Deutschland", "Frankreich", "Italien", "Spanien"],
+      "correctAnswer": 0
+    }
+  ]
+}
