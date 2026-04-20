@@ -11,6 +11,7 @@ export type QuizQuestion = {
 
 export type Quiz = {
   id: string
+  slug: string
   title: string
   description: string
   category: string
