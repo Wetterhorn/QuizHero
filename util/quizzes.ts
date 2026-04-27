@@ -3,7 +3,6 @@ import path from 'path'
 const dataDir = path.join(process.cwd(), 'data')
 
 export type QuizQuestion = {
-  id: string
   question: string
   answers: string[]
   correctAnswer: number

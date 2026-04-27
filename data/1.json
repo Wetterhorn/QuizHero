@@ -6,7 +6,6 @@
   "category": "Informatik",
   "questions": [
     {
-      "id": "q1",
       "question": "Wofür steht die Abkürzung HTML?",
       "answers": [
         "Hyper Text Markup Language",
@@ -17,7 +16,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q2",
       "question": "Welche Zahl wird im Binärsystem nur mit 0 und 1 dargestellt?",
       "answers": [
         "Jede Zahl",
@@ -28,7 +26,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q3",
       "question": "Welches Gerät verarbeitet Eingaben und führt Programme aus?",
       "answers": [
         "Router",
@@ -39,7 +36,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q4",
       "question": "Welche Dateiendung gehört typischerweise zu einer JavaScript-Datei?",
       "answers": [
         ".java",
