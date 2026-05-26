@@ -26,7 +26,7 @@ export default function RootLayout({
           <h1 className="text-center">Header</h1>
         </header>
         {children}
-        <footer className="bg-lime-100 dark:bg-gray-800 p-4">
+        <footer className="bg-lime-100 dark:bg-gray-800 p-4 mt-auto">
           <h1 className="text-center">Footer</h1>
         </footer>
       </body>
